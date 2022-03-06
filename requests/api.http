@@ -1,0 +1,7 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl": "https://www.amazon.com/s?k=gaming+keyboard&ref=nb_sb_noss_1&pf_rd_r=9ES7A8MZ680AFDKPYEBX&pf_rd_p=12129333-2117-4490-9c17-6d31baf0582a&pd_rd_r=50684994-80ba-41c9-8b8c-6330d868fae1&pd_rd_w=X60PS&pd_rd_wg=OPHBz&ref_=pd_gw_unk"
+
+}
